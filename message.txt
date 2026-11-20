@@ -1,0 +1,2 @@
+Hello from the GitHub repository!
+This file is used by the Jenkins build.
