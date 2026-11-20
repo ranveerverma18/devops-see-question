@@ -1,2 +1,3 @@
-Hello from the GitHub repository!
-This file is used by the Jenkins build.
+UPDATED MESSAGE FROM GITHUB!
+Jenkins has successfully retrieved the latest revision.
+This confirms continuous source code integration.
